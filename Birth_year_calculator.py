@@ -1,0 +1,5 @@
+name = input('Enter your name: ')
+birth_year = input('Enter your Birth year: ')
+age = 2022-int(birth_year)
+string_age=str(age)
+print(name+' you are '+string_age+' years old.')
